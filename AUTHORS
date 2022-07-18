@@ -1,0 +1,13 @@
+This fork of jwhois.conf is maintained by Shaun Cummiskey <shaun@shaunc.com>
+
+Includes contributions submitted to the Fedora Project and EPEL7 by:
+
+Vitezslav Crhonek <vchronek@redhat.com>
+Johan Sare <johansare@gmail.com>
+Robert Scheck <robert@fedoraproject.org>
+
+Includes contributions submitted via GitHub as noted at:
+https://github.com/parseword/jwhois.conf/
+
+jwhois is written and maintained by Jonas Öberg <jonas@gnu.org>
+Some parts contributed by Peter Krefting <peter@softwolves.pp.se>
