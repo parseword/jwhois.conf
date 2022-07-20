@@ -663,6 +663,7 @@
 	"56.0.0.0/8" = "whois.arin.net";
 	"57.132.0.0/16" = "whois.arin.net";
 	"57.134.0.0/15" = "whois.arin.net";
+	"57.138.0.0/16" = "whois.arin.net";
 	"57.176.0.0/15" = "whois.apnic.net";
 	"57.0.0.0/8" = "whois.ripe.net";
 	"58.97.128.0/21" = "whois.ripe.net";
@@ -7635,6 +7636,7 @@
 	"216.108.240.0/20" = "whois.apnic.net";
 	"216.118.0.0/18" = "whois.apnic.net";
 	"216.118.224.0/19" = "whois.apnic.net";
+	"216.120.180.0/23" = "whois.ripe.net";
 	"216.128.0.0/19" = "whois.ripe.net";
 	"216.145.43.0/24" = "whois.ripe.net";
 	"216.147.96.0/20" = "whois.ripe.net";
