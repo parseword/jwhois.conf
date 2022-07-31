@@ -7235,6 +7235,7 @@
 	"200.69.8.0/21" = "whois.ripe.net";
 	"200.69.20.0/22" = "whois.arin.net";
 	"200.69.24.0/22" = "whois.arin.net";
+	"200.110.232.0/21" = "whois.arin.net";
 	"200.128.0.0/9" = "whois.registro.br";
 	"200.197.0.0/16" = "whois.ripe.net";
 	"200.224.0.0/16" = "whois.ripe.net";
