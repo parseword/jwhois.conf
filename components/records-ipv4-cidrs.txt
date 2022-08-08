@@ -1915,12 +1915,7 @@
 	"138.107.0.0/16" = "whois.apnic.net";
 	"138.117.0.0/16" = "whois.lacnic.net";
 	"138.118.0.0/16" = "whois.lacnic.net";
-	"138.121.0.0/19" = "whois.lacnic.net";
-	"138.121.32.0/22" = "whois.lacnic.net";
-	"138.121.40.0/21" = "whois.lacnic.net";
-	"138.121.48.0/20" = "whois.lacnic.net";
-	"138.121.64.0/18" = "whois.lacnic.net";
-	"138.121.128.0/17" = "whois.lacnic.net";
+	"138.121.0.0/16" = "whois.lacnic.net";
 	"138.122.0.0/16" = "whois.lacnic.net";
 	"138.124.0.0/17" = "whois.ripe.net";
 	"138.124.128.0/19" = "whois.ripe.net";
