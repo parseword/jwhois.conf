@@ -1797,8 +1797,10 @@
 	"137.55.0.0/16" = "whois.ripe.net";
 	"137.56.0.0/16" = "whois.ripe.net";
 	"137.58.0.0/16" = "whois.ripe.net";
-	"137.59.0.0/19" = "whois.apnic.net";
+	"137.59.0.0/21" = "whois.apnic.net";
 	"137.59.8.0/22" = "whois.ripe.net";
+	"137.59.12.0/22" = "whois.apnic.net";
+	"137.59.16.0/20" = "whois.apnic.net";
 	"137.59.32.0/20" = "whois.apnic.net";
 	"137.59.48.0/21" = "whois.apnic.net";
 	"137.59.56.0/23" = "whois.ripe.net";
