@@ -231,7 +231,6 @@
 	"\\.cam$" = "whois.nic.cam";
 	"\\.camera$" = "whois.nic.camera";
 	"\\.camp$" = "whois.nic.camp";
-	"\\.cancerresearch$" = "whois.nic.cancerresearch";
 	"\\.canon$" = "whois.nic.canon";
 	"\\.capetown$" = "whois.nic.capetown";
 	"\\.capital$" = "whois.nic.capital";
