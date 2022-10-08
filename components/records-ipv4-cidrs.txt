@@ -7339,6 +7339,7 @@
 	"199.166.34.0/23" = "whois.apnic.net";
 	"199.166.36.0/23" = "whois.apnic.net";
 	"199.175.220.0/22" = "whois.ripe.net";
+	"199.181.77.0/24" = "whois.ripe.net";
 	"199.182.232.0/21" = "whois.ripe.net";
 	"199.195.130.0/23" = "whois.ripe.net";
 	"199.203.0.0/16" = "whois.ripe.net";
