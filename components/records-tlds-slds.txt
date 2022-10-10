@@ -208,7 +208,6 @@
 	# "\\.bs$" = "";
 	# No functional WHOIS server is known for .bt
 	# "\\.bt$" = "";
-	"\\.bugatti$" = "whois.nic.bugatti";
 	"\\.build$" = "whois.nic.build";
 	"\\.builders$" = "whois.nic.builders";
 	"\\.business$" = "whois.nic.business";
