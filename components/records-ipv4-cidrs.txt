@@ -1260,6 +1260,7 @@
 	"103.197.148.0/22" = "whois.ripe.net";
 	"103.198.80.0/23" = "whois.ripe.net";
 	"103.199.88.0/22" = "whois.ripe.net";
+	"103.199.232.0/22" = "whois.ripe.net";
 	"103.200.28.0/22" = "whois.ripe.net";
 	"103.202.232.0/22" = "whois.ripe.net";
 	"103.203.40.0/22" = "whois.ripe.net";
