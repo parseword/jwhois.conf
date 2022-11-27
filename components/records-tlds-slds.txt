@@ -17,7 +17,6 @@
 	"\\.actor$" = "whois.nic.actor";
 	# No functional WHOIS server is known for .ad
 	# "\\.ad$" = "";
-	"\\.adac$" = "whois.nic.adac";
 	"\\.ads$" = "whois.nic.ads";
 	"\\.adult$" = "whois.nic.adult";
 	"\\.ae$" = "whois.aeda.net.ae";
