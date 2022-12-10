@@ -1535,7 +1535,6 @@
 	"\\.xn--j1amh$" = "whois.dotukr.com";
 	"\\.xn--j6w193g$" = "whois.hkirc.hk";
 	"\\.xn--jlq480n2rg$" = "whois.nic.xn--jlq480n2rg";
-	"\\.xn--jlq61u9w7b$" = "whois.nic.xn--jlq61u9w7b";
 	"\\.xn--jvr189m$" = "whois.nic.xn--jvr189m";
 	"\\.xn--kcrx77d1x4a$" = "whois.nic.xn--kcrx77d1x4a";
 	"\\.xn--kprw13d$" = "whois.twnic.net.tw";
