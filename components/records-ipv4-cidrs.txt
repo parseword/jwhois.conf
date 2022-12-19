@@ -583,7 +583,7 @@
 	"45.225.192.0/19" = "whois.lacnic.net";
 	"45.225.224.0/20" = "whois.lacnic.net";
 	"45.225.240.0/21" = "whois.lacnic.net";
-	"45.225.248.0/24" = "whois.lacnic.net";
+	"45.225.248.0/23" = "whois.lacnic.net";
 	"45.225.252.0/22" = "whois.lacnic.net";
 	"45.226.0.0/15" = "whois.lacnic.net";
 	"45.228.0.0/15" = "whois.lacnic.net";
@@ -4731,6 +4731,7 @@
 	"188.209.154.0/24" = "whois.apnic.net";
 	"188.212.38.0/24" = "whois.arin.net";
 	"188.214.64.0/20" = "whois.apnic.net";
+	"188.241.223.0/24" = "whois.arin.net";
 	"188.0.0.0/8" = "whois.ripe.net";
 	"189.44.0.0/16" = "whois.registro.br";
 	"189.56.0.0/15" = "whois.registro.br";
