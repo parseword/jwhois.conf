@@ -812,7 +812,6 @@
 	"\\.loans$" = "whois.nic.loans";
 	"\\.locker$" = "whois.nic.locker";
 	"\\.locus$" = "whois.nic.locus";
-	"\\.loft$" = "whois.nic.loft";
 	"\\.lol$" = "whois.uniregistry.net";
 	"\\.london$" = "whois.nic.london";
 	"\\.lotte$" = "whois.nic.lotte";
@@ -1179,7 +1178,6 @@
 	"\\.select$" = "whois.nic.select";
 	"\\.sener$" = "whois.nic.sener";
 	"\\.services$" = "whois.nic.services";
-	"\\.ses$" = "whois.nic.ses";
 	"\\.seven$" = "whois.nic.seven";
 	"\\.sew$" = "whois.nic.sew";
 	"\\.sex$" = "whois.nic.adult";
