@@ -1902,7 +1902,7 @@
 	"137.55.0.0/16" = "whois.ripe.net";
 	"137.56.0.0/16" = "whois.ripe.net";
 	"137.58.0.0/16" = "whois.ripe.net";
-	"137.59.0.0/21" = "whois.apnic.net";
+	"137.59.0.0/22" = "whois.apnic.net";
 	"137.59.4.0/22" = "whois.ripe.net";
 	"137.59.8.0/22" = "whois.ripe.net";
 	"137.59.12.0/22" = "whois.apnic.net";
@@ -5881,7 +5881,10 @@
 	"192.108.51.0/24" = "whois.ripe.net";
 	"192.108.52.0/22" = "whois.ripe.net";
 	"192.108.56.0/21" = "whois.ripe.net";
-	"192.108.64.0/20" = "whois.ripe.net";
+	"192.108.64.0/21" = "whois.ripe.net";
+	"192.108.73.0/24" = "whois.ripe.net";
+	"192.108.74.0/23" = "whois.ripe.net";
+	"192.108.76.0/22" = "whois.ripe.net";
 	"192.108.80.0/21" = "whois.ripe.net";
 	"192.108.88.0/22" = "whois.ripe.net";
 	"192.108.92.0/24" = "whois.ripe.net";
