@@ -4612,7 +4612,6 @@
 	"175.0.0.0/8" = "whois.apnic.net";
 	"176.103.218.0/24" = "whois.arin.net";
 	"176.108.136.0/21" = "whois.arin.net";
-	"176.111.56.0/24" = "whois.arin.net";
 	"176.115.176.0/21" = "whois.arin.net";
 	"176.116.127.0/24" = "whois.apnic.net";
 	"176.122.128.0/18" = "whois.arin.net";
@@ -7083,7 +7082,6 @@
 	"193.149.225.0/24" = "whois.arin.net";
 	"193.150.120.0/24" = "whois.arin.net";
 	"193.150.168.0/24" = "whois.arin.net";
-	"193.178.191.0/24" = "whois.arin.net";
 	"193.186.253.0/24" = "whois.arin.net";
 	"193.187.1.0/24" = "whois.arin.net";
 	"193.188.1.0/24" = "whois.arin.net";
