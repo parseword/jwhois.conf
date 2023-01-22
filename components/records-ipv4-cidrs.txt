@@ -1176,6 +1176,7 @@
 	"103.8.239.0/24" = "whois.arin.net";
 	"103.11.64.0/22" = "whois.arin.net";
 	"103.12.212.0/22" = "whois.arin.net";
+	"103.13.208.0/22" = "whois.ripe.net";
 	"103.14.26.0/23" = "whois.arin.net";
 	"103.14.104.0/22" = "whois.ripe.net";
 	"103.14.208.0/22" = "whois.ripe.net";
@@ -1200,6 +1201,7 @@
 	"103.35.56.0/22" = "whois.ripe.net";
 	"103.35.160.0/22" = "whois.ripe.net";
 	"103.37.84.0/22" = "whois.ripe.net";
+	"103.37.180.0/22" = "whois.ripe.net";
 	"103.39.40.0/23" = "whois.ripe.net";
 	"103.41.44.0/22" = "whois.ripe.net";
 	"103.43.232.0/22" = "whois.ripe.net";
