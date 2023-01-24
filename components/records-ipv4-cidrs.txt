@@ -4203,7 +4203,7 @@
 	"165.4.0.0/15" = "whois.afrinic.net";
 	"165.8.0.0/14" = "whois.afrinic.net";
 	"165.12.0.0/16" = "whois.apnic.net";
-	"165.14.0.0/16" = "whois.apnic.net";
+	"165.14.0.0/15" = "whois.apnic.net";
 	"165.16.0.0/16" = "whois.afrinic.net";
 	"165.21.0.0/16" = "whois.apnic.net";
 	"165.25.0.0/16" = "whois.afrinic.net";
