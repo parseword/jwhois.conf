@@ -654,6 +654,7 @@
 	"45.250.28.0/22" = "whois.apnic.net";
 	"45.250.32.0/19" = "whois.apnic.net";
 	"45.250.64.0/18" = "whois.apnic.net";
+	"45.250.64.0/22" = "whois.ripe.net";
 	"45.250.128.0/18" = "whois.apnic.net";
 	"45.250.192.0/19" = "whois.apnic.net";
 	"45.250.224.0/20" = "whois.apnic.net";
@@ -7532,6 +7533,7 @@
 	"202.23.0.0/16" = "whois.nic.ad.jp";
 	"202.24.0.0/15" = "whois.nic.ad.jp";
 	"202.26.0.0/16" = "whois.nic.ad.jp";
+	"202.27.250.0/24" = "whois.arin.net";
 	"202.32.0.0/14" = "whois.nic.ad.jp";
 	"202.48.0.0/16" = "whois.nic.ad.jp";
 	"202.49.88.0/23" = "whois.ripe.net";
