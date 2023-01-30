@@ -5077,6 +5077,7 @@
 	"192.43.164.0/22" = "whois.ripe.net";
 	"192.43.168.0/22" = "whois.ripe.net";
 	"192.43.185.0/24" = "whois.apnic.net";
+	"192.43.189.0/24" = "whois.apnic.net";
 	"192.43.192.0/22" = "whois.ripe.net";
 	"192.43.196.0/24" = "whois.ripe.net";
 	"192.43.198.0/24" = "whois.apnic.net";
