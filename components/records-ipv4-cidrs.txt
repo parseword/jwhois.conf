@@ -1057,6 +1057,7 @@
 	"82.156.0.0/15" = "whois.apnic.net";
 	"82.201.128.0/17" = "whois.afrinic.net";
 	"82.0.0.0/8" = "whois.ripe.net";
+	"83.101.0.0/17" = "whois.apnic.net";
 	"83.118.0.0/17" = "whois.apnic.net";
 	"83.137.200.0/21" = "whois.apnic.net";
 	"83.143.24.0/21" = "whois.afrinic.net";
