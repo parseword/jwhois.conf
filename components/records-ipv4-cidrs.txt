@@ -1281,6 +1281,7 @@
 	"103.88.232.0/22" = "whois.arin.net";
 	"103.89.12.0/22" = "whois.arin.net";
 	"103.90.160.0/22" = "whois.arin.net";
+	"103.95.116.0/22" = "whois.ripe.net";
 	"103.98.212.0/22" = "whois.arin.net";
 	"103.101.88.0/22" = "whois.ripe.net";
 	"103.101.200.0/22" = "whois.arin.net";
@@ -4361,6 +4362,7 @@
 	"167.219.48.0/20" = "whois.apnic.net";
 	"167.220.224.0/19" = "whois.apnic.net";
 	"167.233.0.0/16" = "whois.ripe.net";
+	"167.234.38.0/24" = "whois.ripe.net";
 	"167.235.0.0/16" = "whois.ripe.net";
 	"167.249.0.0/16" = "whois.lacnic.net";
 	"167.250.0.0/16" = "whois.lacnic.net";
@@ -7611,6 +7613,7 @@
 	"203.29.52.0/22" = "whois.ripe.net";
 	"203.30.104.0/22" = "whois.ripe.net";
 	"203.30.188.0/22" = "whois.ripe.net";
+	"203.31.103.0/24" = "whois.ripe.net";
 	"203.31.221.0/24" = "whois.arin.net";
 	"203.31.244.0/23" = "whois.arin.net";
 	"203.32.120.0/23" = "whois.ripe.net";
