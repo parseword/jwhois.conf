@@ -7112,6 +7112,7 @@
 	"192.245.210.0/23" = "whois.apnic.net";
 	"192.245.212.0/22" = "whois.apnic.net";
 	"192.245.216.0/23" = "whois.apnic.net";
+	"192.245.220.0/24" = "whois.apnic.net";
 	"192.245.225.0/24" = "whois.ripe.net";
 	"192.245.249.0/24" = "whois.apnic.net";
 	"192.245.250.0/23" = "whois.apnic.net";
@@ -7780,6 +7781,7 @@
 	"204.154.200.0/21" = "whois.ripe.net";
 	"204.154.224.0/22" = "whois.apnic.net";
 	"204.168.128.0/17" = "whois.ripe.net";
+	"204.174.100.0/24" = "whois.ripe.net";
 	"204.187.105.0/24" = "whois.ripe.net";
 	"204.225.42.0/23" = "whois.lacnic.net";
 	"204.225.218.0/24" = "whois.ripe.net";
