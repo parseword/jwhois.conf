@@ -832,7 +832,6 @@
 	"\\.lv$" = "whois.nic.lv";
 	"\\.ly$" = "whois.nic.ly";
 	"\\.ma$" = "whois.registre.ma";
-	"\\.macys$" = "whois.nic.macys";
 	"\\.madrid$" = "whois.nic.madrid";
 	"\\.maif$" = "whois.nic.maif";
 	"\\.maison$" = "whois.nic.maison";
