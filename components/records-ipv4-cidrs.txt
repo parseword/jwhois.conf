@@ -7752,6 +7752,7 @@
 	"205.253.0.0/16" = "whois.apnic.net";
 	"205.0.0.0/8" = "whois.arin.net";
 	"206.3.0.0/19" = "whois.apnic.net";
+	"206.15.128.0/24" = "whois.lacnic.net";
 	"206.83.96.0/19" = "whois.apnic.net";
 	"206.124.104.0/21" = "whois.ripe.net";
 	"206.131.192.0/20" = "whois.apnic.net";
