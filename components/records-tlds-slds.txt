@@ -799,7 +799,6 @@
 	"\\.limited$" = "whois.nic.limited";
 	"\\.limo$" = "whois.nic.limo";
 	"\\.lincoln$" = "whois.nic.lincoln";
-	"\\.linde$" = "whois.nic.linde";
 	"\\.link$" = "whois.uniregistry.net";
 	"\\.lipsy$" = "whois.nic.lipsy";
 	"\\.live$" = "whois.nic.live";
