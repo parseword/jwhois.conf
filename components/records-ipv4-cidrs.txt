@@ -881,6 +881,7 @@
 	"66.98.64.0/19" = "whois.lacnic.net";
 	"66.118.128.0/18" = "whois.ripe.net";
 	"66.128.32.0/20" = "whois.lacnic.net";
+	"66.132.133.0/24" = "whois.ripe.net";
 	"66.133.80.0/20" = "whois.apnic.net";
 	"66.181.160.0/19" = "whois.apnic.net";
 	"66.186.194.0/23" = "whois.ripe.net";
@@ -2369,7 +2370,6 @@
 	"141.193.216.0/21" = "whois.arin.net";
 	"141.193.224.0/19" = "whois.arin.net";
 	"141.195.0.0/21" = "whois.arin.net";
-	"141.195.96.0/19" = "whois.arin.net";
 	"141.197.0.0/16" = "whois.arin.net";
 	"141.198.0.0/15" = "whois.arin.net";
 	"141.202.0.0/16" = "whois.arin.net";
