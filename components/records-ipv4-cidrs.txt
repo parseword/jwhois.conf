@@ -864,6 +864,7 @@
 	"65.254.64.0/19" = "whois.apnic.net";
 	"65.0.0.0/8" = "whois.arin.net";
 	"66.8.0.0/17" = "whois.afrinic.net";
+	"66.9.112.0/20" = "whois.ripe.net";
 	"66.9.128.0/19" = "whois.ripe.net";
 	"66.9.192.0/18" = "whois.ripe.net";
 	"66.11.48.0/20" = "whois.apnic.net";
