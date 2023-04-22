@@ -217,11 +217,7 @@
 	"45.65.64.0/18" = "whois.ripe.net";
 	"45.65.128.0/17" = "whois.lacnic.net";
 	"45.66.0.0/15" = "whois.ripe.net";
-	"45.68.0.0/20" = "whois.lacnic.net";
-	"45.68.16.0/22" = "whois.lacnic.net";
-	"45.68.20.0/23" = "whois.lacnic.net";
-	"45.68.22.0/24" = "whois.lacnic.net";
-	"45.68.24.0/21" = "whois.lacnic.net";
+	"45.68.0.0/19" = "whois.lacnic.net";
 	"45.70.0.0/15" = "whois.lacnic.net";
 	"45.75.0.0/17" = "whois.apnic.net";
 	"45.75.128.0/17" = "whois.ripe.net";
@@ -921,6 +917,7 @@
 	"68.0.0.0/8" = "whois.arin.net";
 	"69.6.0.0/18" = "whois.ripe.net";
 	"69.6.64.0/20" = "whois.apnic.net";
+	"69.48.159.0/24" = "whois.ripe.net";
 	"69.63.64.0/20" = "whois.afrinic.net";
 	"69.67.32.0/20" = "whois.afrinic.net";
 	"69.72.80.0/21" = "whois.apnic.net";
@@ -1483,6 +1480,7 @@
 	"122.102.116.0/22" = "whois.ripe.net";
 	"122.0.0.0/8" = "whois.apnic.net";
 	"123.100.232.0/24" = "whois.arin.net";
+	"123.253.212.0/23" = "whois.ripe.net";
 	"123.0.0.0/8" = "whois.apnic.net";
 	"124.0.0.0/8" = "whois.apnic.net";
 	"125.62.72.0/22" = "whois.ripe.net";
@@ -2900,7 +2898,11 @@
 	"148.208.0.0/13" = "whois.lacnic.net";
 	"148.216.0.0/14" = "whois.lacnic.net";
 	"148.220.0.0/15" = "whois.lacnic.net";
-	"148.222.0.0/18" = "whois.lacnic.net";
+	"148.222.0.0/19" = "whois.lacnic.net";
+	"148.222.32.0/21" = "whois.lacnic.net";
+	"148.222.40.0/22" = "whois.ripe.net";
+	"148.222.44.0/22" = "whois.lacnic.net";
+	"148.222.48.0/20" = "whois.lacnic.net";
 	"148.222.64.0/19" = "whois.apnic.net";
 	"148.222.96.0/19" = "whois.lacnic.net";
 	"148.222.128.0/18" = "whois.lacnic.net";
@@ -7488,6 +7490,7 @@
 	"198.200.8.0/23" = "whois.apnic.net";
 	"198.205.12.0/23" = "whois.ripe.net";
 	"198.205.14.0/24" = "whois.ripe.net";
+	"198.205.102.0/24" = "whois.ripe.net";
 	"198.206.197.0/24" = "whois.ripe.net";
 	"198.206.200.0/23" = "whois.ripe.net";
 	"198.206.202.0/24" = "whois.ripe.net";
@@ -7524,6 +7527,7 @@
 	"199.67.88.0/22" = "whois.ripe.net";
 	"199.67.94.0/23" = "whois.apnic.net";
 	"199.83.100.0/23" = "whois.lacnic.net";
+	"199.83.103.0/24" = "whois.ripe.net";
 	"199.88.208.0/21" = "whois.ripe.net";
 	"199.91.16.0/20" = "whois.ripe.net";
 	"199.103.8.0/22" = "whois.ripe.net";
