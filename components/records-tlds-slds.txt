@@ -1,6 +1,5 @@
 	"\\.aaa$" = "whois.nic.aaa";
 	"\\.aarp$" = "whois.nic.aarp";
-	"\\.abarth$" = "whois.nic.abarth";
 	"\\.abb$" = "whois.nic.abb";
 	"\\.abbott$" = "whois.nic.abbott";
 	"\\.abbvie$" = "whois.nic.abbvie";
@@ -44,7 +43,6 @@
 	"\\.akdn$" = "whois.nic.akdn";
 	# No functional WHOIS server is known for .al
 	# "\\.al$" = "";
-	"\\.alfaromeo$" = "whois.nic.alfaromeo";
 	"\\.alibaba$" = "whois.nic.alibaba";
 	"\\.alipay$" = "whois.nic.alipay";
 	"\\.allfinanz$" = "whois.nic.allfinanz";
@@ -476,7 +474,6 @@
 	"\\.ferrari$" = "whois.nic.ferrari";
 	"\\.ferrero$" = "whois.nic.ferrero";
 	"\\.fi$" = "whois.fi";
-	"\\.fiat$" = "whois.nic.fiat";
 	"\\.fidelity$" = "whois.nic.fidelity";
 	"\\.fido$" = "whois.nic.fido";
 	"\\.film$" = "whois.nic.film";
@@ -767,7 +764,6 @@
 	"\\.lamborghini$" = "whois.nic.lamborghini";
 	"\\.lamer$" = "whois.nic.lamer";
 	"\\.lancaster$" = "whois.nic.lancaster";
-	"\\.lancia$" = "whois.nic.lancia";
 	"\\.land$" = "whois.nic.land";
 	"\\.landrover$" = "whois.nic.landrover";
 	"\\.lanxess$" = "whois.nic.lanxess";
@@ -844,7 +840,6 @@
 	"\\.markets$" = "whois.nic.markets";
 	"\\.marriott$" = "whois.nic.marriott";
 	"\\.marshalls$" = "whois.nic.marshalls";
-	"\\.maserati$" = "whois.nic.maserati";
 	"\\.mattel$" = "whois.nic.mattel";
 	"\\.mba$" = "whois.nic.mba";
 	# No functional WHOIS server is known for .mc

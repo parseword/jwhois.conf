@@ -357,7 +357,12 @@
 	"45.117.232.0/22" = "whois.ripe.net";
 	"45.117.236.0/22" = "whois.apnic.net";
 	"45.117.240.0/20" = "whois.apnic.net";
-	"45.118.0.0/17" = "whois.apnic.net";
+	"45.118.0.0/21" = "whois.apnic.net";
+	"45.118.9.0/24" = "whois.apnic.net";
+	"45.118.12.0/22" = "whois.apnic.net";
+	"45.118.16.0/20" = "whois.apnic.net";
+	"45.118.32.0/19" = "whois.apnic.net";
+	"45.118.64.0/18" = "whois.apnic.net";
 	"45.118.128.0/19" = "whois.apnic.net";
 	"45.118.160.0/20" = "whois.apnic.net";
 	"45.118.176.0/21" = "whois.apnic.net";
