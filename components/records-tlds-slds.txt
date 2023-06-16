@@ -324,7 +324,6 @@
 	"\\.contact$" = "whois.nic.contact";
 	"\\.contractors$" = "whois.nic.contractors";
 	"\\.cooking$" = "whois.nic.cooking";
-	"\\.cookingchannel$" = "whois.nic.cookingchannel";
 	"\\.cool$" = "whois.nic.cool";
 	"\\.coop$" = "whois.nic.coop";
 	"\\.corsica$" = "whois.nic.corsica";
@@ -501,7 +500,6 @@
 	"\\.fo$" = "whois.nic.fo";
 	"\\.foo$" = "whois.nic.foo";
 	"\\.food$" = "whois.nic.food";
-	"\\.foodnetwork$" = "whois.nic.foodnetwork";
 	"\\.football$" = "whois.nic.football";
 	"\\.ford$" = "whois.nic.ford";
 	"\\.forex$" = "whois.nic.forex";
@@ -617,7 +615,6 @@
 	"\\.helsinki$" = "whois.nic.helsinki";
 	"\\.here$" = "whois.nic.here";
 	"\\.hermes$" = "whois.nic.hermes";
-	"\\.hgtv$" = "whois.nic.hgtv";
 	"\\.hiphop$" = "whois.nic.hiphop";
 	"\\.hisamitsu$" = "whois.gmoregistry.net";
 	"\\.hitachi$" = "whois.gmoregistry.net";
@@ -1323,7 +1320,6 @@
 	"\\.trading$" = "whois.nic.trading";
 	"\\.training$" = "whois.nic.training";
 	"\\.travel$" = "whois.nic.travel";
-	"\\.travelchannel$" = "whois.nic.travelchannel";
 	"\\.travelers$" = "whois.nic.travelers";
 	"\\.travelersinsurance$" = "whois.nic.travelersinsurance";
 	"\\.trust$" = "whois.nic.trust";
