@@ -4882,6 +4882,7 @@
 	"185.19.104.0/22" = "whois.apnic.net";
 	"185.20.220.0/22" = "whois.arin.net";
 	"185.30.72.0/22" = "whois.arin.net";
+	"185.33.44.0/24" = "whois.arin.net";
 	"185.35.244.0/22" = "whois.arin.net";
 	"185.38.210.0/23" = "whois.arin.net";
 	"185.39.52.0/22" = "whois.arin.net";
