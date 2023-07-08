@@ -637,7 +637,6 @@
 	"\\.host$" = "whois.nic.host";
 	"\\.hosting$" = "whois.uniregistry.net";
 	"\\.hot$" = "whois.nic.hot";
-	"\\.hoteles$" = "whois.nic.hoteles";
 	"\\.hotels$" = "whois.nic.hotels";
 	"\\.hotmail$" = "whois.nic.hotmail";
 	"\\.house$" = "whois.nic.house";
@@ -1000,7 +999,6 @@
 	"\\.partners$" = "whois.nic.partners";
 	"\\.parts$" = "whois.nic.parts";
 	"\\.party$" = "whois.nic.party";
-	"\\.passagens$" = "whois.nic.passagens";
 	"\\.pay$" = "whois.nic.pay";
 	"\\.pccw$" = "whois.nic.pccw";
 	"\\.pe$" = "kero.yachay.pe";
@@ -1401,7 +1399,6 @@
 	"\\.voto$" = "whois.nic.voto";
 	"\\.voyage$" = "whois.nic.voyage";
 	"\\.vu$" = "whois.dnrs.vu";
-	"\\.vuelos$" = "whois.nic.vuelos";
 	"\\.wales$" = "whois.nic.wales";
 		"\\.gov\\.wales$" = "whois.ja.net";
 	"\\.walmart$" = "whois.nic.walmart";
