@@ -899,7 +899,6 @@
 	"\\.mu$" = "whois.nic.mu";
 	"\\.museum$" = "whois.nic.museum";
 	"\\.music$" = "whois.nic.music";
-	"\\.mutual$" = "whois.nic.mutual";
 	# No functional WHOIS server is known for .mv
 	# "\\.mv$" = "";
 	"\\.mw$" = "whois.nic.mw";
