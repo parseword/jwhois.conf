@@ -545,7 +545,14 @@
 	"45.138.192.0/18" = "whois.ripe.net";
 	"45.139.0.0/16" = "whois.ripe.net";
 	"45.140.0.0/14" = "whois.ripe.net";
-	"45.144.0.0/14" = "whois.ripe.net";
+	"45.144.0.0/16" = "whois.ripe.net";
+	"45.145.0.0/19" = "whois.ripe.net";
+	"45.145.32.0/22" = "whois.ripe.net";
+	"45.145.40.0/21" = "whois.ripe.net";
+	"45.145.48.0/20" = "whois.ripe.net";
+	"45.145.64.0/18" = "whois.ripe.net";
+	"45.145.128.0/17" = "whois.ripe.net";
+	"45.146.0.0/15" = "whois.ripe.net";
 	"45.148.0.0/15" = "whois.ripe.net";
 	"45.150.0.0/19" = "whois.ripe.net";
 	"45.150.32.0/20" = "whois.ripe.net";
