@@ -8073,6 +8073,7 @@
 	"207.244.212.0/24" = "whois.ripe.net";
 	"207.244.214.0/23" = "whois.ripe.net";
 	"207.244.216.0/22" = "whois.ripe.net";
+	"207.244.220.0/24" = "whois.ripe.net";
 	"207.248.0.0/15" = "whois.lacnic.net";
 	"207.0.0.0/8" = "whois.arin.net";
 	"208.52.162.0/23" = "whois.lacnic.net";
