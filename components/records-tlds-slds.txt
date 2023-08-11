@@ -949,7 +949,6 @@
 	"\\.nl$" = "whois.domain-registry.nl";
 	"\\.no$" = "whois.norid.no";
 	"\\.nokia$" = "whois.nic.nokia";
-	"\\.northwesternmutual$" = "whois.nic.northwesternmutual";
 	"\\.norton$" = "whois.nic.norton";
 	"\\.now$" = "whois.nic.now";
 	"\\.nowruz$" = "whois.nic.nowruz";
