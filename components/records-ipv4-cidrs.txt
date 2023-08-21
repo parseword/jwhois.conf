@@ -4798,12 +4798,7 @@
 	"170.199.246.0/24" = "whois.apnic.net";
 	"170.205.64.0/18" = "whois.ripe.net";
 	"170.210.0.0/16" = "whois.lacnic.net";
-	"170.231.0.0/17" = "whois.lacnic.net";
-	"170.231.128.0/18" = "whois.lacnic.net";
-	"170.231.192.0/19" = "whois.lacnic.net";
-	"170.231.228.0/22" = "whois.lacnic.net";
-	"170.231.232.0/21" = "whois.lacnic.net";
-	"170.231.240.0/20" = "whois.lacnic.net";
+	"170.231.0.0/16" = "whois.lacnic.net";
 	"170.233.0.0/16" = "whois.lacnic.net";
 	"170.236.0.0/15" = "whois.ripe.net";
 	"170.238.0.0/15" = "whois.lacnic.net";
