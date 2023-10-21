@@ -512,7 +512,6 @@
 	"\\.fresenius$" = "whois.nic.fresenius";
 	"\\.frl$" = "whois.nic.frl";
 	"\\.frogans$" = "whois.nic.frogans";
-	"\\.frontdoor$" = "whois.nic.frontdoor";
 	"\\.frontier$" = "whois.nic.frontier";
 	"\\.ftr$" = "whois.nic.ftr";
 	"\\.fujitsu$" = "whois.gmoregistry.net";
