@@ -248,7 +248,6 @@
 	"\\.cba$" = "whois.nic.cba";
 	"\\.cbn$" = "whois.nic.cbn";
 	"\\.cbre$" = "whois.nic.cbre";
-	"\\.cbs$" = "whois.nic.cbs";
 	"\\.cc$" {
 		whois-server = "ccwhois.verisign-grs.com";
 		query-format = "domain $*";
@@ -1181,7 +1180,6 @@
 	"\\.shopping$" = "whois.nic.shopping";
 	"\\.shouji$" = "whois.nic.shouji";
 	"\\.show$" = "whois.nic.show";
-	"\\.showtime$" = "whois.nic.showtime";
 	"\\.si$" = "whois.register.si";
 	"\\.silk$" = "whois.nic.silk";
 	"\\.sina$" = "whois.nic.sina";
