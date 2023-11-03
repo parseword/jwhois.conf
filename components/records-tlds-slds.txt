@@ -730,7 +730,6 @@
 	"\\.kia$" = "whois.nic.kia";
 	"\\.kids$" = "whois.afilias-srs.net";
 	"\\.kim$" = "whois.nic.kim";
-	"\\.kinder$" = "whois.nic.kinder";
 	"\\.kindle$" = "whois.nic.kindle";
 	"\\.kitchen$" = "whois.nic.kitchen";
 	"\\.kiwi$" = "whois.nic.kiwi";
@@ -1101,7 +1100,6 @@
 	"\\.rio$" = "whois.nic.rio";
 	"\\.rip$" = "whois.nic.rip";
 	"\\.ro$" = "whois.rotld.ro";
-	"\\.rocher$" = "whois.nic.rocher";
 	"\\.rocks$" = "whois.nic.rocks";
 	"\\.rodeo$" = "whois.nic.rodeo";
 	"\\.rogers$" = "whois.nic.rogers";
