@@ -6,8 +6,7 @@
 	"\\.abc$" = "whois.nic.abc";
 	"\\.able$" = "whois.nic.able";
 	"\\.abogado$" = "whois.nic.abogado";
-	# No functional WHOIS server is known for .abudhabi
-	# "\\.abudhabi$" = "";
+	"\\.abudhabi$" = "whois.nic.abudhabi";
 	"\\.ac$" = "whois.nic.ac";
 	"\\.academy$" = "whois.nic.academy";
 	"\\.accenture$" = "whois.nic.accenture";
