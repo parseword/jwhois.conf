@@ -6,7 +6,8 @@
 	"\\.abc$" = "whois.nic.abc";
 	"\\.able$" = "whois.nic.able";
 	"\\.abogado$" = "whois.nic.abogado";
-	"\\.abudhabi$" = "whois.nic.abudhabi";
+	# No functional WHOIS server is known for .abudhabi
+	# "\\.abudhabi$" = "";
 	"\\.ac$" = "whois.nic.ac";
 	"\\.academy$" = "whois.nic.academy";
 	"\\.accenture$" = "whois.nic.accenture";
@@ -446,7 +447,6 @@
 	"\\.estate$" = "whois.nic.estate";
 	# No functional WHOIS server is known for .et
 	# "\\.et$" = "";
-	"\\.etisalat$" = "whois.nic.etisalat";
 	"\\.eu$" = "whois.eu";
 	"\\.eurovision$" = "whois.nic.eurovision";
 	"\\.eus$" = "whois.nic.eus";
@@ -1524,7 +1524,6 @@
 	"\\.xn--mgba3a3ejt$" = "whois.nic.xn--mgba3a3ejt";
 	"\\.xn--mgba3a4f16a$" = "whois.nic.ir";
 	"\\.xn--mgba7c0bbn0a$" = "whois.nic.xn--mgba7c0bbn0a";
-	"\\.xn--mgbaakc7dvf$" = "whois.nic.xn--mgbaakc7dvf";
 	"\\.xn--mgbaam7a8h$" = "whois.aeda.net.ae";
 	"\\.xn--mgbab2bd$" = "whois.nic.xn--mgbab2bd";
 	"\\.xn--mgbah1a3hjkrd$" = "whois.nic.mr";
