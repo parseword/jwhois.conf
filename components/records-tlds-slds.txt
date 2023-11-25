@@ -1383,7 +1383,6 @@
 	# No functional WHOIS server is known for .vn
 	# "\\.vn$" = "";
 	"\\.vodka$" = "whois.nic.vodka";
-	"\\.volkswagen$" = "whois.nic.volkswagen";
 	"\\.volvo$" = "whois.nic.volvo";
 	"\\.vote$" = "whois.nic.vote";
 	"\\.voting$" = "whois.nic.voting";
