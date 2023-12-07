@@ -2015,12 +2015,7 @@
 	"131.181.0.0/16" = "whois.apnic.net";
 	"131.185.0.0/16" = "whois.apnic.net";
 	"131.188.0.0/15" = "whois.ripe.net";
-	"131.196.0.0/19" = "whois.lacnic.net";
-	"131.196.32.0/21" = "whois.lacnic.net";
-	"131.196.40.0/22" = "whois.lacnic.net";
-	"131.196.48.0/20" = "whois.lacnic.net";
-	"131.196.64.0/18" = "whois.lacnic.net";
-	"131.196.128.0/17" = "whois.lacnic.net";
+	"131.196.0.0/16" = "whois.lacnic.net";
 	"131.203.0.0/16" = "whois.apnic.net";
 	"131.205.0.0/16" = "whois.ripe.net";
 	"131.206.0.0/16" = "whois.apnic.net";
