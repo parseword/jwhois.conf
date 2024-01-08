@@ -3740,7 +3740,7 @@
 	"157.10.56.0/22" = "whois.apnic.net";
 	"157.10.60.0/23" = "whois.apnic.net";
 	"157.10.62.0/24" = "whois.apnic.net";
-	"157.10.64.0/21" = "whois.apnic.net";
+	"157.10.64.0/20" = "whois.apnic.net";
 	"157.11.0.0/16" = "whois.apnic.net";
 	"157.12.0.0/15" = "whois.apnic.net";
 	"157.14.0.0/16" = "whois.apnic.net";
@@ -4522,6 +4522,7 @@
 	"163.153.0.0/16" = "whois.arin.net";
 	"163.154.0.0/15" = "whois.arin.net";
 	"163.156.0.0/15" = "whois.ripe.net";
+	"163.158.0.0/16" = "whois.arin.net";
 	"163.159.0.0/16" = "whois.ripe.net";
 	"163.160.0.0/12" = "whois.ripe.net";
 	"163.176.0.0/16" = "whois.arin.net";
