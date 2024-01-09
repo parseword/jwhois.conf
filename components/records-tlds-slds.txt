@@ -281,7 +281,6 @@
 	"\\.citi$" = "whois.nic.citi";
 	"\\.citic$" = "whois.nic.citic";
 	"\\.city$" = "whois.nic.city";
-	"\\.cityeats$" = "whois.nic.cityeats";
 	# No functional WHOIS server is known for .ck
 	# "\\.ck$" = "";
 	"\\.cl$" = "whois.nic.cl";
