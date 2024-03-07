@@ -587,7 +587,6 @@
 	# "\\.gt$" = "";
 	# No functional WHOIS server is known for .gu
 	# "\\.gu$" = "";
-	"\\.guardian$" = "whois.nic.guardian";
 	"\\.gucci$" = "whois.nic.gucci";
 	"\\.guge$" = "whois.nic.guge";
 	"\\.guide$" = "whois.nic.guide";
