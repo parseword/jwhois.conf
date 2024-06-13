@@ -904,7 +904,6 @@
 		whois-server = "whois.nic.name";
 		query-format = "domain = $*";
 	}
-	"\\.natura$" = "whois.nic.natura";
 	"\\.navy$" = "whois.nic.navy";
 	"\\.nba$" = "whois.nic.nba";
 	"\\.nc$" = "whois.nc";
