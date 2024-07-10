@@ -1160,7 +1160,6 @@
 	"\\.sh$" = "whois.nic.sh";
 	"\\.shangrila$" = "whois.nic.shangrila";
 	"\\.sharp$" = "whois.gmoregistry.net";
-	"\\.shaw$" = "whois.nic.shaw";
 	"\\.shell$" = "whois.nic.shell";
 	"\\.shia$" = "whois.nic.shia";
 	"\\.shiksha$" = "whois.nic.shiksha";
