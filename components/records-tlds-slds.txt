@@ -350,7 +350,6 @@
 		"\\.llyw\\.cymru$" = "whois.ja.net";
 	"\\.cyou$" = "whois.nic.cyou";
 	"\\.cz$" = "whois.nic.cz";
-	"\\.dabur$" = "whois.nic.dabur";
 	"\\.dad$" = "whois.nic.dad";
 	"\\.dance$" = "whois.nic.dance";
 	"\\.data$" = "whois.nic.data";
