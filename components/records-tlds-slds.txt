@@ -712,7 +712,6 @@
 	"\\.kddi$" = "whois.nic.kddi";
 	"\\.ke$" = "whois.kenic.or.ke";
 	"\\.kerryhotels$" = "whois.nic.kerryhotels";
-	"\\.kerrylogistics$" = "whois.nic.kerrylogistics";
 	"\\.kerryproperties$" = "whois.nic.kerryproperties";
 	"\\.kfh$" = "whois.nic.kfh";
 	"\\.kg$" = "whois.kg";
@@ -782,7 +781,6 @@
 	"\\.limo$" = "whois.nic.limo";
 	"\\.lincoln$" = "whois.nic.lincoln";
 	"\\.link$" = "whois.uniregistry.net";
-	"\\.lipsy$" = "whois.nic.lipsy";
 	"\\.live$" = "whois.nic.live";
 	"\\.living$" = "whois.nic.living";
 	# No functional WHOIS server is known for .lk
