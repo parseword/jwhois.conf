@@ -2841,6 +2841,7 @@
 	"132.230.0.0/15" = "whois.ripe.net";
 	"132.232.0.0/16" = "whois.apnic.net";
 	"132.234.0.0/16" = "whois.apnic.net";
+	"132.237.192.0/18" = "whois.apnic.net";
 	"132.244.0.0/16" = "whois.ripe.net";
 	"132.247.0.0/16" = "whois.lacnic.net";
 	"132.248.0.0/16" = "whois.lacnic.net";
