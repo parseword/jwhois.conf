@@ -1026,7 +1026,6 @@
 	"\\.porn$" = "whois.nic.adult";
 	"\\.post$" = "whois.dotpostregistry.net";
 	"\\.pr$" = "whois.afilias-srs.net";
-	"\\.pramerica$" = "whois.nic.pramerica";
 	"\\.praxi$" = "whois.nic.praxi";
 	"\\.press$" = "whois.nic.press";
 	"\\.prime$" = "whois.nic.prime";
