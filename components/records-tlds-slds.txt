@@ -405,7 +405,6 @@
 	"\\.drive$" = "whois.nic.drive";
 	"\\.dtv$" = "whois.nic.dtv";
 	"\\.dubai$" = "whois.nic.dubai";
-	"\\.dunlop$" = "whois.nic.dunlop";
 	"\\.dupont$" = "whois.nic.dupont";
 	"\\.durban$" = "whois.nic.durban";
 	"\\.dvag$" = "whois.nic.dvag";
