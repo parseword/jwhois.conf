@@ -898,14 +898,7 @@
 	"45.183.48.0/20" = "whois.lacnic.net";
 	"45.183.64.0/18" = "whois.lacnic.net";
 	"45.183.128.0/17" = "whois.lacnic.net";
-	"45.184.0.0/16" = "whois.lacnic.net";
-	"45.185.0.0/20" = "whois.lacnic.net";
-	"45.185.20.0/22" = "whois.lacnic.net";
-	"45.185.24.0/21" = "whois.lacnic.net";
-	"45.185.32.0/19" = "whois.lacnic.net";
-	"45.185.64.0/18" = "whois.lacnic.net";
-	"45.185.128.0/17" = "whois.lacnic.net";
-	"45.186.0.0/15" = "whois.lacnic.net";
+	"45.184.0.0/14" = "whois.lacnic.net";
 	"45.188.0.0/15" = "whois.lacnic.net";
 	"45.190.0.0/16" = "whois.lacnic.net";
 	"45.191.0.0/17" = "whois.lacnic.net";
@@ -921,13 +914,7 @@
 	"45.220.0.0/15" = "whois.afrinic.net";
 	"45.222.0.0/16" = "whois.afrinic.net";
 	"45.224.0.0/14" = "whois.lacnic.net";
-	"45.228.0.0/16" = "whois.lacnic.net";
-	"45.229.0.0/20" = "whois.lacnic.net";
-	"45.229.20.0/22" = "whois.lacnic.net";
-	"45.229.24.0/21" = "whois.lacnic.net";
-	"45.229.32.0/19" = "whois.lacnic.net";
-	"45.229.64.0/18" = "whois.lacnic.net";
-	"45.229.128.0/17" = "whois.lacnic.net";
+	"45.228.0.0/15" = "whois.lacnic.net";
 	"45.230.0.0/21" = "whois.lacnic.net";
 	"45.230.8.0/22" = "whois.lacnic.net";
 	"45.230.12.0/22" = "whois.ripe.net";
@@ -1470,6 +1457,7 @@
 	"69.19.136.0/21" = "whois.ripe.net";
 	"69.30.89.0/24" = "whois.ripe.net";
 	"69.40.204.0/22" = "whois.ripe.net";
+	"69.46.41.0/24" = "whois.ripe.net";
 	"69.48.145.0/24" = "whois.ripe.net";
 	"69.48.159.0/24" = "whois.ripe.net";
 	"69.57.172.0/24" = "whois.ripe.net";
@@ -1514,6 +1502,7 @@
 	"70.34.62.0/24" = "whois.apnic.net";
 	"70.34.224.0/20" = "whois.ripe.net";
 	"70.40.160.0/20" = "whois.ripe.net";
+	"70.40.188.0/23" = "whois.ripe.net";
 	"70.0.0.0/8" = "whois.arin.net";
 	"71.131.192.0/18" = "whois.apnic.net";
 	"71.132.0.0/18" = "whois.apnic.net";
@@ -2170,6 +2159,7 @@
 	"103.152.174.0/23" = "whois.ripe.net";
 	"103.155.126.0/23" = "whois.ripe.net";
 	"103.156.184.0/23" = "whois.ripe.net";
+	"103.160.58.0/23" = "whois.ripe.net";
 	"103.192.160.0/22" = "whois.ripe.net";
 	"103.193.132.0/22" = "whois.ripe.net";
 	"103.193.165.0/24" = "whois.ripe.net";
@@ -3134,6 +3124,8 @@
 	"135.129.224.0/20" = "whois.ripe.net";
 	"135.130.0.0/16" = "whois.ripe.net";
 	"135.132.48.0/20" = "whois.ripe.net";
+	"135.132.144.0/20" = "whois.ripe.net";
+	"135.136.0.0/17" = "whois.ripe.net";
 	"135.149.0.0/16" = "whois.apnic.net";
 	"135.171.0.0/16" = "whois.ripe.net";
 	"135.181.0.0/16" = "whois.ripe.net";
@@ -4195,7 +4187,16 @@
 	"147.234.52.0/22" = "whois.ripe.net";
 	"147.234.56.0/21" = "whois.ripe.net";
 	"147.234.64.0/18" = "whois.ripe.net";
-	"147.234.128.0/17" = "whois.ripe.net";
+	"147.234.128.0/19" = "whois.ripe.net";
+	"147.234.161.0/24" = "whois.ripe.net";
+	"147.234.162.0/23" = "whois.ripe.net";
+	"147.234.164.0/22" = "whois.ripe.net";
+	"147.234.168.0/22" = "whois.ripe.net";
+	"147.234.176.0/21" = "whois.ripe.net";
+	"147.234.185.0/24" = "whois.ripe.net";
+	"147.234.186.0/23" = "whois.ripe.net";
+	"147.234.188.0/22" = "whois.ripe.net";
+	"147.234.192.0/18" = "whois.ripe.net";
 	"147.235.0.0/16" = "whois.ripe.net";
 	"147.236.0.0/17" = "whois.ripe.net";
 	"147.236.128.0/20" = "whois.ripe.net";
@@ -4563,7 +4564,9 @@
 	"151.152.0.0/16" = "whois.arin.net";
 	"151.153.0.0/16" = "whois.apnic.net";
 	"151.154.0.0/15" = "whois.arin.net";
-	"151.158.0.0/23" = "whois.apnic.net";
+	"151.158.0.0/18" = "whois.apnic.net";
+	"151.158.64.0/20" = "whois.apnic.net";
+	"151.158.80.0/23" = "whois.apnic.net";
 	"151.159.0.0/16" = "whois.arin.net";
 	"151.160.0.0/13" = "whois.arin.net";
 	"151.168.0.0/15" = "whois.arin.net";
@@ -4600,6 +4603,7 @@
 	"152.41.0.0/17" = "whois.ripe.net";
 	"152.52.0.0/16" = "whois.apnic.net";
 	"152.53.0.0/16" = "whois.ripe.net";
+	"152.55.216.0/21" = "whois.ripe.net";
 	"152.56.0.0/14" = "whois.apnic.net";
 	"152.65.0.0/17" = "whois.ripe.net";
 	"152.65.192.0/18" = "whois.apnic.net";
@@ -4728,7 +4732,7 @@
 	"153.110.0.0/16" = "whois.ripe.net";
 	"153.112.0.0/16" = "whois.ripe.net";
 	"153.113.0.0/16" = "whois.arin.net";
-	"153.114.0.0/15" = "whois.arin.net";
+	"153.114.0.0/16" = "whois.arin.net";
 	"153.116.0.0/15" = "whois.arin.net";
 	"153.0.0.0/8" = "whois.apnic.net";
 	"154.1.0.0/16" = "whois.arin.net";
@@ -4941,6 +4945,7 @@
 	"157.22.0.0/17" = "whois.ripe.net";
 	"157.22.128.0/18" = "whois.ripe.net";
 	"157.22.192.0/19" = "whois.ripe.net";
+	"157.22.228.0/22" = "whois.ripe.net";
 	"157.22.232.0/21" = "whois.ripe.net";
 	"157.22.240.0/20" = "whois.ripe.net";
 	"157.23.0.0/16" = "whois.ripe.net";
@@ -5928,7 +5933,11 @@
 	"163.240.0.0/15" = "whois.arin.net";
 	"163.242.0.0/16" = "whois.ripe.net";
 	"163.243.0.0/16" = "whois.arin.net";
-	"163.244.0.0/15" = "whois.arin.net";
+	"163.244.0.0/16" = "whois.arin.net";
+	"163.245.0.0/17" = "whois.arin.net";
+	"163.245.128.0/18" = "whois.arin.net";
+	"163.245.192.0/19" = "whois.arin.net";
+	"163.245.224.0/19" = "whois.ripe.net";
 	"163.246.0.0/16" = "whois.arin.net";
 	"163.247.0.0/16" = "whois.lacnic.net";
 	"163.248.0.0/15" = "whois.arin.net";
@@ -6238,6 +6247,7 @@
 	"167.205.0.0/16" = "whois.apnic.net";
 	"167.208.0.0/16" = "whois.apnic.net";
 	"167.219.48.0/20" = "whois.apnic.net";
+	"167.219.128.0/21" = "whois.apnic.net";
 	"167.220.224.0/19" = "whois.apnic.net";
 	"167.231.0.0/16" = "whois.ripe.net";
 	"167.233.0.0/16" = "whois.ripe.net";
@@ -6246,14 +6256,7 @@
 	"167.235.0.0/16" = "whois.ripe.net";
 	"167.247.86.0/23" = "whois.ripe.net";
 	"167.249.0.0/16" = "whois.lacnic.net";
-	"167.250.0.0/17" = "whois.lacnic.net";
-	"167.250.128.0/18" = "whois.lacnic.net";
-	"167.250.192.0/22" = "whois.lacnic.net";
-	"167.250.196.0/23" = "whois.lacnic.net";
-	"167.250.198.0/24" = "whois.lacnic.net";
-	"167.250.200.0/21" = "whois.lacnic.net";
-	"167.250.208.0/20" = "whois.lacnic.net";
-	"167.250.224.0/19" = "whois.lacnic.net";
+	"167.250.0.0/16" = "whois.lacnic.net";
 	"167.252.0.0/16" = "whois.lacnic.net";
 	"167.0.0.0/8" = "whois.arin.net";
 	"168.0.0.0/16" = "whois.lacnic.net";
@@ -7612,6 +7615,7 @@
 	"192.58.88.0/23" = "whois.ripe.net";
 	"192.58.97.0/24" = "whois.apnic.net";
 	"192.58.98.0/23" = "whois.apnic.net";
+	"192.58.100.0/23" = "whois.apnic.net";
 	"192.58.133.0/24" = "whois.apnic.net";
 	"192.58.134.0/23" = "whois.apnic.net";
 	"192.58.136.0/24" = "whois.apnic.net";
@@ -7626,6 +7630,7 @@
 	"192.64.202.0/24" = "whois.ripe.net";
 	"192.64.203.0/24" = "whois.apnic.net";
 	"192.64.204.0/24" = "whois.apnic.net";
+	"192.65.16.0/24" = "whois.ripe.net";
 	"192.65.51.0/24" = "whois.ripe.net";
 	"192.65.52.0/22" = "whois.ripe.net";
 	"192.65.56.0/21" = "whois.ripe.net";
@@ -7661,6 +7666,7 @@
 	"192.66.152.0/21" = "whois.ripe.net";
 	"192.66.160.0/19" = "whois.ripe.net";
 	"192.66.192.0/18" = "whois.ripe.net";
+	"192.67.1.0/24" = "whois.apnic.net";
 	"192.67.3.0/24" = "whois.ripe.net";
 	"192.67.4.0/24" = "whois.ripe.net";
 	"192.67.12.0/24" = "whois.apnic.net";
@@ -7859,6 +7865,7 @@
 	"192.83.102.0/24" = "whois.ripe.net";
 	"192.83.118.0/24" = "whois.apnic.net";
 	"192.83.120.0/24" = "whois.ripe.net";
+	"192.83.157.0/24" = "whois.apnic.net";
 	"192.83.160.0/24" = "whois.ripe.net";
 	"192.83.165.0/24" = "whois.ripe.net";
 	"192.83.166.0/23" = "whois.apnic.net";
@@ -8212,6 +8219,7 @@
 	"192.103.28.0/22" = "whois.ripe.net";
 	"192.103.32.0/21" = "whois.ripe.net";
 	"192.103.40.0/24" = "whois.ripe.net";
+	"192.103.46.0/24" = "whois.apnic.net";
 	"192.103.64.0/19" = "whois.ripe.net";
 	"192.103.137.0/24" = "whois.ripe.net";
 	"192.103.138.0/23" = "whois.ripe.net";
@@ -8437,6 +8445,7 @@
 	"192.122.171.0/24" = "whois.apnic.net";
 	"192.122.176.0/24" = "whois.apnic.net";
 	"192.122.180.0/24" = "whois.apnic.net";
+	"192.122.210.0/24" = "whois.apnic.net";
 	"192.122.214.0/24" = "whois.ripe.net";
 	"192.122.216.0/21" = "whois.ripe.net";
 	"192.122.224.0/21" = "whois.ripe.net";
@@ -8580,6 +8589,7 @@
 	"192.135.185.0/24" = "whois.lacnic.net";
 	"192.135.187.0/24" = "whois.ripe.net";
 	"192.135.208.0/24" = "whois.apnic.net";
+	"192.135.210.0/24" = "whois.apnic.net";
 	"192.135.217.0/24" = "whois.ripe.net";
 	"192.135.219.0/24" = "whois.ripe.net";
 	"192.135.225.0/24" = "whois.ripe.net";
@@ -8972,6 +8982,7 @@
 	"192.160.21.0/24" = "whois.ripe.net";
 	"192.160.22.0/23" = "whois.ripe.net";
 	"192.160.27.0/24" = "whois.ripe.net";
+	"192.160.29.0/24" = "whois.apnic.net";
 	"192.160.33.0/24" = "whois.ripe.net";
 	"192.160.37.0/24" = "whois.ripe.net";
 	"192.160.45.0/24" = "whois.lacnic.net";
@@ -9032,6 +9043,7 @@
 	"192.169.32.0/21" = "whois.apnic.net";
 	"192.169.40.0/23" = "whois.apnic.net";
 	"192.169.96.0/19" = "whois.ripe.net";
+	"192.170.86.0/24" = "whois.apnic.net";
 	"192.171.1.0/24" = "whois.ripe.net";
 	"192.171.2.0/23" = "whois.ripe.net";
 	"192.171.4.0/23" = "whois.ripe.net";
@@ -9132,6 +9144,7 @@
 	"192.189.73.0/24" = "whois.ripe.net";
 	"192.189.75.0/24" = "whois.afrinic.net";
 	"192.189.76.0/24" = "whois.ripe.net";
+	"192.189.94.0/24" = "whois.apnic.net";
 	"192.189.119.0/24" = "whois.ripe.net";
 	"192.189.138.0/23" = "whois.afrinic.net";
 	"192.189.151.0/24" = "whois.ripe.net";
@@ -9147,7 +9160,7 @@
 	"192.189.223.0/24" = "whois.apnic.net";
 	"192.189.229.0/24" = "whois.apnic.net";
 	"192.189.230.0/23" = "whois.apnic.net";
-	"192.189.232.0/24" = "whois.apnic.net";
+	"192.189.232.0/23" = "whois.apnic.net";
 	"192.189.251.0/24" = "whois.ripe.net";
 	"192.190.30.0/23" = "whois.lacnic.net";
 	"192.190.44.0/24" = "whois.ripe.net";
@@ -9228,6 +9241,7 @@
 	"192.199.32.0/20" = "whois.apnic.net";
 	"192.200.64.0/20" = "whois.apnic.net";
 	"192.200.192.0/19" = "whois.ripe.net";
+	"192.203.38.0/23" = "whois.apnic.net";
 	"192.203.80.0/24" = "whois.ripe.net";
 	"192.203.99.0/24" = "whois.apnic.net";
 	"192.203.108.0/23" = "whois.ripe.net";
@@ -9242,6 +9256,8 @@
 	"192.203.177.0/24" = "whois.lacnic.net";
 	"192.203.183.0/24" = "whois.apnic.net";
 	"192.203.184.0/23" = "whois.apnic.net";
+	"192.203.193.0/24" = "whois.apnic.net";
+	"192.203.209.0/24" = "whois.apnic.net";
 	"192.203.213.0/24" = "whois.apnic.net";
 	"192.203.216.0/24" = "whois.apnic.net";
 	"192.203.227.0/24" = "whois.ripe.net";
@@ -9292,6 +9308,7 @@
 	"192.207.206.0/24" = "whois.lacnic.net";
 	"192.207.244.0/24" = "whois.lacnic.net";
 	"192.207.248.0/24" = "whois.apnic.net";
+	"192.207.254.0/24" = "whois.apnic.net";
 	"192.211.0.0/24" = "whois.ripe.net";
 	"192.214.160.0/19" = "whois.ripe.net";
 	"192.214.192.0/19" = "whois.ripe.net";
@@ -10351,6 +10368,8 @@
 	"204.51.0.0/18" = "whois.apnic.net";
 	"204.52.96.0/19" = "whois.ripe.net";
 	"204.52.191.0/24" = "whois.apnic.net";
+	"204.57.218.0/24" = "whois.ripe.net";
+	"204.57.220.0/24" = "whois.ripe.net";
 	"204.58.136.0/22" = "whois.lacnic.net";
 	"204.62.218.0/24" = "whois.ripe.net";
 	"204.75.142.0/24" = "whois.apnic.net";
@@ -10439,6 +10458,7 @@
 	"206.195.32.0/19" = "whois.ripe.net";
 	"206.195.128.0/20" = "whois.ripe.net";
 	"206.201.0.0/20" = "whois.apnic.net";
+	"206.203.0.0/18" = "whois.ripe.net";
 	"206.204.0.0/18" = "whois.ripe.net";
 	"206.204.104.0/22" = "whois.ripe.net";
 	"206.204.128.0/18" = "whois.ripe.net";
