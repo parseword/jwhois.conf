@@ -559,7 +559,6 @@
 	"\\.gold$" = "whois.nic.gold";
 	"\\.goldpoint$" = "whois.nic.goldpoint";
 	"\\.golf$" = "whois.nic.golf";
-	"\\.goo$" = "whois.gmoregistry.net";
 	"\\.goodyear$" = "whois.nic.goodyear";
 	"\\.goog$" = "whois.nic.goog";
 	"\\.google$" = "whois.nic.google";
