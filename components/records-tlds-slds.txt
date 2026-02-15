@@ -1395,7 +1395,6 @@
 	"\\.wine$" = "whois.nic.wine";
 	"\\.winners$" = "whois.nic.winners";
 	"\\.wme$" = "whois.nic.wme";
-	"\\.wolterskluwer$" = "whois.nic.wolterskluwer";
 	"\\.woodside$" = "whois.nic.woodside";
 	"\\.work$" = "whois.nic.work";
 	"\\.works$" = "whois.nic.works";
