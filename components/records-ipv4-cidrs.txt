@@ -5962,9 +5962,10 @@
 	"162.4.120.0/21" = "whois.apnic.net";
 	"162.4.128.0/18" = "whois.apnic.net";
 	"162.4.192.0/19" = "whois.apnic.net";
-	"162.4.224.0/21" = "whois.apnic.net";
-	"162.4.232.0/22" = "whois.apnic.net";
-	"162.4.236.0/23" = "whois.apnic.net";
+	"162.4.224.0/20" = "whois.apnic.net";
+	"162.4.240.0/23" = "whois.apnic.net";
+	"162.4.242.0/24" = "whois.apnic.net";
+	"162.4.244.0/22" = "whois.apnic.net";
 	"162.11.0.0/16" = "whois.ripe.net";
 	"162.12.196.0/22" = "whois.lacnic.net";
 	"162.12.200.0/21" = "whois.ripe.net";
