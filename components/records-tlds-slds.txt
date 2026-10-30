@@ -600,7 +600,6 @@
 	"\\.health$" = "whois.nic.health";
 	"\\.healthcare$" = "whois.nic.healthcare";
 	"\\.help$" = "whois.uniregistry.net";
-	"\\.helsinki$" = "whois.nic.helsinki";
 	"\\.here$" = "whois.nic.here";
 	"\\.hermes$" = "whois.nic.hermes";
 	"\\.hiphop$" = "whois.nic.hiphop";
